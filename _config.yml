@@ -1,3 +1,5 @@
 theme: jekyll-theme-hacker
-title: "Andrés Pacheco"
-description: "description"
+title: Andrés Pacheco
+description: Software developer
+github:
+  is_project_page: false
