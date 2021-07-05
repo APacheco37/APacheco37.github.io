@@ -1,5 +1,5 @@
 ---
-title: "Andrés Pacheco | Software Developer"
+title: "Home"
 ---
 
 ### My Data
