@@ -12,7 +12,7 @@ title: "Home"
 
 ### Projects
 
-- [Spotify Data Explorer](https://elastic-tereshkova-7f9c72.netlify.app/) [_(code)_](https://github.com/apacheco37/spotify-scraper)
+- [Spotify Data Explorer](https://spotify-data-explorer.netlify.app/) [_(code)_](https://github.com/apacheco37/spotify-scraper)
 
 ### Posts
 
