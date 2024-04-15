@@ -4,11 +4,11 @@ title: "Home"
 
 ### My Data
 
-- Email: apacheco73@hotmail.com
+- Email: apacheco37@outlook.com
 
 - [Linkedin](https://www.linkedin.com/in/andres-pacheco-/)
 
-- [Github](https://github.com/APacheco37)
+- [Github](https://github.com/apacheco37)
 
 ### Projects
 
